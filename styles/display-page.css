@@ -1,0 +1,48 @@
+body {
+	width: 800px;
+	padding: 30px;
+	font-size: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.row-one {
+	height: 200px;
+	width: 50%;
+	display: inline-block;
+	font-size: 0;
+}
+
+/* chat to Aaron re better ways to add the border as per the example HTML */
+/* my way has too much duplication */
+.inner-one {
+	background-color: green;
+	border: solid 1px black;
+}
+
+.inner-two {
+	background-color: blue;
+	border: solid 1px black;
+}
+
+.row-two {
+	height: 300px;
+	width: 33.33%;
+	display: inline-block;
+	font-size: 0;
+}
+
+.inner-three {
+	background-color: grey;
+	border: solid 1px black;
+}
+
+.inner-four {
+	background-color: black;
+	border: solid 1px black;
+}
+
+.inner-five {
+	background-color: orange;
+	border: solid 1px black;
+}
