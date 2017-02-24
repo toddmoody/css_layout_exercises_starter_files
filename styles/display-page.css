@@ -13,7 +13,7 @@ body {
 	font-size: 0;
 }
 
-/* chat to Aaron re better ways to add the border as per the example HTML */
+/* chat to Aaron re better ways to add the border as per the example */
 /* my way has too much duplication */
 .inner-one {
 	background-color: green;
